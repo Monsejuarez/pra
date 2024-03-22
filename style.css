@@ -1,0 +1,46 @@
+body{
+    background:linear-gradient(45deg,rgb(195, 170, 252), #f39785);
+    justify-content: center;
+    align-items: center;
+    color: rgb(233, 163, 172);
+    
+}
+
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: rgba(239, 192, 248, 0.877);
+}
+#dia{
+    color: rgb(164, 255, 240);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#mes{
+    color: rgb(19, 173, 148);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#boton{
+    color: rgba(250, 126, 194, 0.685);
+    background: linear-gradient(45deg,rgb(150, 172, 231), #6fdbd2);
+}
+#cuadro1{
+    background: linear-gradient(45deg,rgb(159, 141, 202), #e79787);
+    font-size: 25px;
+    color: white;
+}
+#cuadro2{
+    background: linear-gradient(45deg,rgb(168, 157, 194), #c4a19a);
+    font-size: 25px;
+}
+img{
+    width: 850px;
+    height: auto;
+    display: flex;
+    margin: auto;
+    border-radius: 20px;
+    border-style: solid;
+    
+}
